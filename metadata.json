@@ -1,0 +1,5 @@
+{
+  "name": "Autoavaluació Cicle Superior",
+  "description": "Una aplicació interactiva per a l'autoavaluació d'estudiants de Cicle Superior, basada en principis d'ABP i educació emocional.",
+  "requestFramePermissions": []
+}
